@@ -6,6 +6,7 @@ For more information about our system, please read the following publications:
 - [FLaaS: Enabling Practical Federated Learning on Mobile Environments](http://arxiv.org/abs/2206.10963)
 - [FLaaS: Federated Learning as a Service](https://arxiv.org/abs/2011.09359)
 - [Demo: FLaaS - Practical Federated Learning as a Service for Mobile Applications](https://dl.acm.org/doi/pdf/10.1145/3508396.3517074)
+- [Demo: FLaaS - Enabling Practical Federated Learning on Mobile Environments](https://dl.acm.org/doi/10.1145/3498361.3539693)
 
 To get started, have a look at the following two main repositories:
 - [FLaaS-Server](https://github.com/FLaaSResearch/FLaaS-Server)
